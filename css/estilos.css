@@ -68,7 +68,7 @@ nav .active{
     border-radius: 25px;
 }
 .container{
-    color: #E20000;
+    color: white;
 }
 
 #proyectos {
@@ -100,4 +100,35 @@ height: 148px;
         background-size: 100%;
     
     }
+}
+#proyectos .fa-github {
+    font-size: 30px;
+    color: #E20000;
+}
+#proyectos .fa-linkedin {
+    font-size: 30px;
+    color: #E20000;
+}
+#proyectos footer, #proyectos footer a{
+    color: #E20000;
+}
+#index{
+    background-image: url(..//images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.cohete{
+    height: 400px;
+}
+.cohete:hover{
+    height: 410px;
+}
+
+.input-home p{
+    color:white;
+    font-size: 17px;
+    border: 1px solid white;
+    border-radius: 70px;
+    font-weight: 600;
 }
