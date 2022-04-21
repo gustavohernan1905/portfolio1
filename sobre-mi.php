@@ -136,7 +136,6 @@ $pg = "sobre-mi";
                         </div>
                     </div>
                 </div>
-
             </div>
         </section>
         <section id="experiencia" class="container">
