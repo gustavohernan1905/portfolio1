@@ -8,3 +8,7 @@
         <div class="col-12 col-sm-3 text-center text-sm-start pt-2 p-sm-0"><a href="mailto:guhediaz@gmail.com">guhediaz@gmail.com</a></div>
     </div>
 </footer>
+<div class="whatsapp pt-3 pb-4 px-3">
+        <a href="https://api.WhatsApp.com/send?phone=03512061608">
+            <i class="fa-brands fa-whatsapp"></i></a>
+</div>
