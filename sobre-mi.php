@@ -124,14 +124,14 @@ $pg = "sobre-mi";
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/300px-Apache_HTTP_server_logo_%282016%29.svg.png">
+                            <img class="img-fluid d-block mx-auto" width="120"
+                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Mercadopago</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
+                            <img class="img-fluid d-block mx-auto" width="80"
                                 src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
                         </div>
                     </div>
