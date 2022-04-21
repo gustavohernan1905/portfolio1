@@ -17,15 +17,14 @@ $pg = "sobre-mi";
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <title>Proyectos</title>
 </head>
 
 <body id="sobre-mi">
-<?php include_once("header.php"); ?>
+    <?php include_once("header.php"); ?>
     <main>
         <div class="container">
             <div class="row">
@@ -36,8 +35,7 @@ $pg = "sobre-mi";
                     <a href="contacto.php" class="btn btn-rojo mb-3">Enviar mensaje</a>
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
-                    <img src="images/gustavo.jpg" alt="Diaz Gustavo Hernan" title="Diaz Gustavo Hernan"
-                        class="img-fluid img-circle">
+                    <img src="images/gustavo.jpg" alt="Diaz Gustavo Hernan" title="Diaz Gustavo Hernan" class="img-fluid img-circle">
                 </div>
             </div>
         </div>
@@ -52,43 +50,37 @@ $pg = "sobre-mi";
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Javascript</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/1209/javascript.jpeg">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/1209/javascript.jpeg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>PHP</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>HTML5</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>React.js</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/1020/OYIaJ1KK.png">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>jQuery</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Bootstrap</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
                         </div>
                     </div>
                 </div>
@@ -96,43 +88,37 @@ $pg = "sobre-mi";
                     <div class="col-sm-2 col-6">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Laravel</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>MySQL</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>CSS</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/6727/css.png">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/6727/css.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Git</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/1046/git.png">
+                            <img class="img-fluid d-block mx-auto" width="70" src="https://img.stackshare.io/service/1046/git.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img class="img-fluid d-block mx-auto" width="120"
-                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
+                            <img class="img-fluid d-block mx-auto" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Mercadopago</h3>
-                            <img class="img-fluid d-block mx-auto" width="80"
-                                src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="80" src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
                         </div>
                     </div>
                 </div>
@@ -152,20 +138,11 @@ $pg = "sobre-mi";
                             <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Director</h3>
-                            <h4>DEPCSUITE SA</h4>
-                            <h5>2016 - presente</h5>
-                            <p>Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: cloud
-                                services, desarrollo de sistemas y educación IT en Buenos Aires, con sedes en Puerto
-                                Madero
-                                y
-                                Belgrano. Celebración de convenios estratégicos. Desarrollo de nuevos productos.
-                                Coordinación
-                                del área de sistemas y educación. Docente de cursos tecnológicos en: Laravel, PHP, HTML,
-                                CSS,
-                                Javascript, jQuery, AJAX, React.js, Bootstrap, GitLab, HTTP Apache2, SSL, MySQL,
-                                HAProxy,
-                                ProFTPd, virtualización con VMware ESXi, GNU/Linux Debian.</p>
+                            <h3>Responsable de Higiene y Seguridad</h3>
+                            <h4>GEIN S.R.L</h4>
+                            <h5>2020 - presente</h5>
+                            <p>- Licenciado en Higiene y Seguridad realizando tareas de montaje, supervisión, visitas de higiene y seguridad capacitaciones, programas de seguridad, procedimientos
+                                de trabajos y asesoramiento. AUTONEUM S.A - DIOXITEK S.A - ADDOCK-ADEA - COCA COLA</p>
                         </div>
                     </div>
                 </div>
@@ -175,18 +152,12 @@ $pg = "sobre-mi";
                             <img src="images/uba.jpg" class="img-fluid baw" title="Universidad de Buenos Aires">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Senior Full Stack</h3>
-                            <h4>Universidad de Buenos Aires</h4>
-                            <h5>ago 2015 - ene 2020</h5>
-                            <p>Planeamiento del proyecto, seguimiento, reuniones de avance, estimación de entregables.
-                                Trato
-                                con clientes y equipos
-                                internos. Desarrollo de nuevos sistemas. Capacitar y organizar el área de desarrollo.
-                                Gestionar los ambientes de
-                                desarrollo. Administrar repositorio. Asignar tareas al equipo.
-                                Tecnologías: Laravel, PHP, HTML, CSS, Javascript, jQuery, AJAX, SQL Server, IIS,
-                                Bootstrap,
-                                Microsoft Project, GitLab.</p>
+                            <h3>Reponsable de Higiene y Seguridad</h3>
+                            <h4>SYSAL S.A</h4>
+                            <h5>2021 - presente</h5>
+                            <p>Licenciado en Higiene y Seguridad
+                                realizando tareas desupervisación, asesoramiento, matriz de riesgo, protocolo covid-19, análisis de riesgos en
+                                telecomunicaciones para ARSAT enestaciones de servicio de YPF S.A.</p>
                         </div>
                     </div>
                 </div>
@@ -196,18 +167,11 @@ $pg = "sobre-mi";
                             <img src="images/enacom.jpg" class="img-fluid baw" title="enacom">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Senior Full Stack</h3>
-                            <h4>ENACOM</h4>
-                            <h5>jul 2012 - jun 2018</h5>
-                            <p>Diseño y desarrollo de sistemas internos para el organismo. Mantenimiento de los sistemas
-                                existentes. Gestión de base de
-                                datos y reportes. Trato con distintos clientes internos y equipos. Reuniones de avance.
-                                Organización del proyecto en
-                                Redmine. Resolución de pedidos mediante sistema de incidencias GLPI.
-                                Tecnologías: PHP, HTML, CSS, jQuery, Debian, AJAX, Javascript, jQuery, MySQL, PHP,
-                                Python,
-                                Mongo DB, PostgreSQL, firma
-                                electrónica, servicios REST, interfaz con SAP, XAMPP.</p>
+                            <h3>Tecnico en Higiene y Seguridad</h3>
+                            <h4>YPF S.A</h4>
+                            <h5>may 2021 - nov 2021</h5>
+                            <p>Supervisor en Higiene y seguridad en PLANTA YPFMONTECRISTO CÓRDOBA
+                                realizando tareas de gestiónde documentación, capacitaciones, simulacros, análisisde riesgos, matríz de riesgos, montajes, excavaciones,demoliciones, trabajos en altura, control de maquinariaspesadas y capacitaciones.</p>
                         </div>
                     </div>
                 </div>
@@ -217,11 +181,11 @@ $pg = "sobre-mi";
                             <img src="images/sin-logo.png" class="img-fluid baw" title="certificado">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Consultor Desarrollador Freelance</h3>
-                            <h4>Certificado Digital SA</h4>
+                            <h3>Tecnico en Higiene y Seguridad</h3>
+                            <h4>GAMA S.A<h4>
                             <h5>ago 2014 - dic 2016</h5>
-                            <p>Proyecto de desarrollo de sistemas web para los clientes de la consultora.
-                                Tecnologías: PHP, CSS, HTML, jQuery, Javascript, MySQL, WSDL.</p>
+                            <p> Técnico en Higiene y Seguridad realizando tareaspermanencia en obra "CIUDAD GAMA Y LA DIVA"
+                                controlando a las subcontratistas que cumplan con el plande seguridad de la obra, plan de mejoras, análisis deriesgos, protocolo COVID, realizando capacitaciones einducción a todo el personal, representaciones anteorganismos de control como ART Y MINISTERIO DE TRABAJO.</p>
                         </div>
                     </div>
                 </div>
@@ -231,29 +195,10 @@ $pg = "sobre-mi";
                             <img src="images/golshy.jpg" class="img-fluid baw" title="certificado">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Back-end y Front-end</h3>
-                            <h4>Agencia Golshy</h4>
-                            <h5>jul 2011 - dic 2016</h5>
-                            <p>Desarrollo, implementación y mantenimiento de sistemas y páginas Web. Relevamiento de
-                                requisitos. Trato con el cliente.
-                                Desarrollo del Brief de marca y del sitio web. Participación en eventos de networking.
-                                Tecnologías: HTML, CSS, Javasacript, jQuery, MySQL, AJAX, API, Facebook, API Twitter, y
-                                API
-                                Youtube, Drupal, Wordpress.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/globons.png" class="img-fluid baw" title="globons">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Back-end y Front-end</h3>
-                            <h4>Globons SRL</h4>
-                            <h5>abr 2010 - ene 2011</h5>
-                            <p>Desarrollo de sistemas web para los distintos proyectos de la empresa.
-                                Tecnologías: ASP.NET, C#, jQuery, AJAX, SQLServer, HTML, CSS.</p>
+                            <h3>Operario Especializado</h3>
+                            <h4>Bugliotti Desarollos</h4>
+                            <h5>feb 2015 - sep 2019</h5>
+                            <p> Operario de construcción (LOS NARANJOS 1,2 Y3) Operario taller de Logística y Técnico en Higiene y Seguridad</p>
                         </div>
                     </div>
                 </div>
@@ -433,7 +378,7 @@ $pg = "sobre-mi";
         </section>
         </div>
     </main>
-    <?php include_once "footer.php";?>
+    <?php include_once "footer.php"; ?>
     <div class="whatsapp pt-3 pb-4 px-3">
         <a href="https://api.WhatsApp.com/send?phone=03512061608">
             <i class="fa-brands fa-whatsapp"></i></a>
