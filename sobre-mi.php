@@ -33,8 +33,7 @@ $pg = "sobre-mi";
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
                     <p class="pb-sm-5">Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de
                         programación Full Stack y de Base de datos.</p>
-                    <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
-
+                    <a href="contacto.php" class="btn btn-rojo mb-3">Enviar mensaje</a>
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
                     <img src="images/gustavo.jpg" alt="Diaz Gustavo Hernan" title="Diaz Gustavo Hernan"
