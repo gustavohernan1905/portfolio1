@@ -140,3 +140,7 @@ height: 148px;
     background-size: 100%;
 }
 
+#sobre-mi .img-fluid{
+    border: 10px solid white;
+    border-radius: 170px;
+}
