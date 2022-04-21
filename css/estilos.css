@@ -151,6 +151,11 @@ height: 148px;
 .card{
     height: 180px;
 }
+h3{
+    font-size: 14px; 
+    color: black;
+    font-weight: 300;
+}
 #experiencia h3{
     font-size: 18px; 
     color: rgb(114, 112, 112);
