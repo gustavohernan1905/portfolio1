@@ -118,17 +118,25 @@ height: 148px;
     background-size: 100%;
 }
 
-.cohete{
-    height: 400px;
-}
-.cohete:hover{
+#index .div-cohete{
     height: 410px;
 }
-
-.input-home p{
+#index .cohete{
+    height: 400px;
+}
+#index .cohete:hover{
+    height: 410px;
+}
+#index .input-home p{
     color:white;
     font-size: 17px;
     border: 1px solid white;
-    border-radius: 70px;
+    border-radius: 50px;
     font-weight: 600;
 }
+#sobre-mi{
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+

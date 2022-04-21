@@ -15,30 +15,30 @@
         <title>Inicio</title>
     </head>
 
-    <body id="index">
-        <?php include_once("header.php"); ?>
-        <main class="container">
-            <div class="row">
-                <div class="col-12 text-center div-cohete">
-                    <a href="proyectos.php"><img src="images/cohete.svg" class="cohete"></a>
+<body id="index">
+    <?php include_once("header.php"); ?>
+    <main class="container">
+        <div class="row">
+            <div class="col-12 text-center div-cohete">
+                <a href="proyectos.php"><img src="images/cohete.svg" class="cohete"></a>
+            </div>
+        </div>
+        <div class="row">
+             <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
+                 <div class="input-home">
+                    <p class="p-1">Bienvenid@ a mi sitio web sobre docencia en sistemas.</p>
+                </div>
+                <div class="col-6 p-4 text-center offset-sm-3 mb-3">
+                    <a href="proyectos.php" target="_blank" class="btn btn-blanco">Conoce mis Proyectos</a>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
-                    <div class="input-home">
-                        <p class="p-1">Bienvenid@ a mi sitio web sobre docencia en sistemas.</p>
-                    </div>
-                    <div class="col-6 p-4 text-center offset-sm-3 mb-3">
-                        <a href="proyectos.php" target="_blank" class="btn btn-blanco">Conoce mis Proyectos</a>
-                    </div>
-                </div>
-            </div>
-            </div>
-            <?php include_once("footer.php"); ?>
-            <div class="whatsapp pt-3 pb-4 px-3">
-                <a href="https://api.WhatsApp.com/send?phone=03512061608">
-                    <i class="fa-brands fa-whatsapp"></i></a>
-            </div>
-    </body>
+        </div>
+    </main>
+    <?php include_once("footer.php"); ?>
+    <div class="whatsapp pt-3 pb-4 px-3">
+        <a href="https://api.WhatsApp.com/send?phone=03512061608">
+            <i class="fa-brands fa-whatsapp"></i></a>
+    </div>
+</body>
 
-    </html>
+</html>
