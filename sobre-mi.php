@@ -436,6 +436,10 @@ $pg = "sobre-mi";
         </div>
     </main>
     <?php include_once "footer.php";?>
+    <div class="whatsapp pt-3 pb-4 px-3">
+        <a href="https://api.WhatsApp.com/send?phone=03512061608">
+            <i class="fa-brands fa-whatsapp"></i></a>
+    </div>
 </body>
 
 </html>
