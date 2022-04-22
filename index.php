@@ -1,4 +1,4 @@
-< <?php
+<?php
     $pg = "index";
  ?>
 <!DOCTYPE html>

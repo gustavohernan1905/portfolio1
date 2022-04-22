@@ -118,7 +118,7 @@ height: 148px;
 #index{
     background-image: url(..//images/fondo-contacto.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 #index .div-cohete{
