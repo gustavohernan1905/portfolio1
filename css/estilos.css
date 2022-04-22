@@ -145,10 +145,10 @@ height: 148px;
     border: 10px solid white;
     border-radius: 170px;
 }
-.color-gradiente{
+#tecnologias.color-gradiente{
     background: rgb(221, 40, 20)
 }
-.card{
+#sobre-mi .card{
     height: 180px;
 }
 h3{
@@ -156,7 +156,7 @@ h3{
     color: black;
     font-weight: 300;
 }
-#experiencia h3{
+#experiencia h3 , #formacion h3{
     font-size: 18px; 
     color: rgb(114, 112, 112);
     font-weight: 600;
@@ -165,8 +165,21 @@ h3{
     color: #370A6D;
     font-size: 17px;
 }
-#experiencia h5{
+#experiencia h5 , #formacion  h5{
     font-size: 13px; 
     color: rgb(114, 112, 112);
     font-weight: 500;
+}
+.baw {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+.baw:hover {
+    -webkit-filter: grayscale(100%);
+    filter:grayscale(0%);
+}
+
+#formacion h4 , #formacion h2{
+    font-size: 17px;
+    color: #E20000;
 }

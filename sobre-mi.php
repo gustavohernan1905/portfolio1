@@ -131,29 +131,28 @@ $pg = "sobre-mi";
                 </div>
             </div>
             <div class="row shadow bg-white rounded">
-
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                        <div class="col-2 p-4 my-auto d-none d-sm-block">
+                            <img src="images/GEIN.jpg" class="img-fluid baw" title="Gein SRL">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Responsable de Higiene y Seguridad</h3>
                             <h4>GEIN S.R.L</h4>
                             <h5>2020 - presente</h5>
                             <p>- Licenciado en Higiene y Seguridad realizando tareas de montaje, supervisión, visitas de higiene y seguridad capacitaciones, programas de seguridad, procedimientos
-                                de trabajos y asesoramiento. AUTONEUM S.A - DIOXITEK S.A - ADDOCK-ADEA - COCA COLA</p>
+                                de trabajos y asesoramiento. AUTONEUM S.A - DIOXITEK S.A - ADDOCK-ADEA - COCA COLA.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/uba.jpg" class="img-fluid baw" title="Universidad de Buenos Aires">
+                        <div class="col-2 p-3 my-auto d-none d-sm-block">
+                            <img src="images/sisal.jpg" class="img-fluid baw" title="Sisal S.A">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Reponsable de Higiene y Seguridad</h3>
-                            <h4>SYSAL S.A</h4>
+                            <h4>SISAL S.A</h4>
                             <h5>2021 - presente</h5>
                             <p>Licenciado en Higiene y Seguridad
                                 realizando tareas desupervisación, asesoramiento, matriz de riesgo, protocolo covid-19, análisis de riesgos en
@@ -164,7 +163,7 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/enacom.jpg" class="img-fluid baw" title="enacom">
+                            <img src="images/ypf.png" class="img-fluid baw" title="ypf">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Tecnico en Higiene y Seguridad</h3>
@@ -178,27 +177,27 @@ $pg = "sobre-mi";
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" class="img-fluid baw" title="certificado">
+                            <img src="images/gama.png" class="img-fluid baw" title="gama">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Tecnico en Higiene y Seguridad</h3>
                             <h4>GAMA S.A<h4>
                             <h5>ago 2014 - dic 2016</h5>
                             <p> Técnico en Higiene y Seguridad realizando tareaspermanencia en obra "CIUDAD GAMA Y LA DIVA"
-                                controlando a las subcontratistas que cumplan con el plande seguridad de la obra, plan de mejoras, análisis deriesgos, protocolo COVID, realizando capacitaciones einducción a todo el personal, representaciones anteorganismos de control como ART Y MINISTERIO DE TRABAJO.</p>
+                                controlando a las subcontratistas que cumplan con el plande seguridad de la obra, plan de mejoras, análisis deriesgos, protocolo COVID, realizando capacitaciones einducción a todo el personal, representaciones ante organismos de control como ART Y MINISTERIO DE TRABAJO.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/golshy.jpg" class="img-fluid baw" title="certificado">
+                        <div class="col-2 p-3 my-auto d-none d-sm-block">
+                            <img src="images/bugliotti.png" class="img-fluid baw" widght="100" title="bugliotti">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Operario Especializado</h3>
                             <h4>Bugliotti Desarollos</h4>
                             <h5>feb 2015 - sep 2019</h5>
-                            <p> Operario de construcción (LOS NARANJOS 1,2 Y3) Operario taller de Logística y Técnico en Higiene y Seguridad</p>
+                            <p> Operario de construcción (LOS NARANJOS 1, 2 Y 3) Operario taller de Logística y Técnico en Higiene y Seguridad</p>
                         </div>
                     </div>
                 </div>
