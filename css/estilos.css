@@ -113,6 +113,8 @@ height: 148px;
 #proyectos footer, #sobre-mi footer, #proyectos footer a , #sobre-mi footer a{
     color: #E20000;
 }
+
+
 #index{
     background-image: url(..//images/fondo-contacto.png);
     background-repeat: no-repeat;
@@ -135,12 +137,13 @@ height: 148px;
     border-radius: 50px;
     font-weight: 600;
 }
+
+
 #sobre-mi{
     background-image: url(../images/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
-
 #sobre-mi .img-fluid{
     border: 10px solid white;
     border-radius: 170px;
@@ -163,12 +166,16 @@ h3{
 }
 #experiencia h2, #experiencia h4 {
     color: #370A6D;
-    font-size: 17px;
+    font-size: 18px;
 }
 #experiencia h5 , #formacion  h5{
     font-size: 13px; 
     color: rgb(114, 112, 112);
     font-weight: 500;
+}
+#formacion h4 , #formacion h2{
+    font-size: 18px;
+    color: #E20000;
 }
 .baw {
     -webkit-filter: grayscale(100%);
@@ -179,7 +186,3 @@ h3{
     filter:grayscale(0%);
 }
 
-#formacion h4 , #formacion h2{
-    font-size: 17px;
-    color: #E20000;
-}
