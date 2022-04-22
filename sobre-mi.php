@@ -212,8 +212,8 @@ $pg = "sobre-mi";
             <div class="row shadow bg-white rounded p-1">
                 <div class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
+                        <div class="col-2 py-2 my-auto d-none d-sm-block">
+                            <img src="images/um.png" class="img-fluid baw" title="universidad de moron">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Licenciado en Higiene y Seguridad laboral</h3>
@@ -225,13 +225,13 @@ $pg = "sobre-mi";
                 </div>
                 <div class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                        <div class="col-2 py-2 my-auto d-none d-sm-block">
+                            <img src="images/i86.jpg" class="img-fluid baw" title="ipem86">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Secundario Completo</h3>
                             <h4>IPEM N 86</h4>
-                            <h5>2009 – 2014</h5>
+                            <h5>2009 - 2014</h5>
                             <p>https://ipem86gabrielamist.wixsite.com/ipem86</p>
                         </div>
                     </div>
@@ -239,7 +239,7 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" class="img-fluid baw" title="depcsuite">
+                            <img src="images/ficde.png" class="img-fluid baw" title="ficde">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Oratoria y comunicacion eficaz</h3>
