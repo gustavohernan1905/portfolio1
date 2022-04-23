@@ -250,6 +250,132 @@ $pg = "sobre-mi";
                     </div>
                 </div>
             </div>
+        </section>
+        <section id="formacion" class="container mb-5">
+            <div class="row">
+                <div class="col-12 pt-5 pb-4">
+                    <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
+                </div>
+            </div>
+            <div class="row shadow bg-white rounded p-1">
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/utn.jpg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Programa Ejecutivo en Project Management</h3>
+                            <h4>Universidad Tecnológica Nacional</h4>
+                            <h5>Expedición: may 2018</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Diplomatura en Marketing</h3>
+                            <h4>Escuela Argentina de Negocios</h4>
+                            <h5>Expedición: dic 2017</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Capacitación en Planes de Negocio</h3>
+                            <h4>Fundación Impulsar</h4>
+                            <h5>Expedición: may 2018</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Programación Web ASP.NET</h3>
+                            <h4>Universidad Nacional de La Matanza</h4>
+                            <h5>Expedición: dic 2019</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/microsoft.jpg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Programación C# .NET</h3>
+                            <h4>Microsoft</h4>
+                            <h5>Expedición: dic 2006</h5>
+                            <p></p>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/sin-logo.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>English Intermediate B2</h3>
+                            <h4>Instituto John Milton de Cultura Inglesa</h4>
+                            <h5>Expedición: dic 2006</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+        <section id="idiomas">
+            <div class="container">
+                <div class="row py-5 mx-0">
+                    <div class="col-sm-6 col-12 pb-3 pb-sm-0">
+                        <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-comment-alt"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>IDIOMAS</h2>
+                                <ul>
+                                    <li>ESPAÑOL - Nativo</li>
+                                    <li>INGLÉS - Básico</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-12">
+                        <div class="row ml-sm-2 bg-white card-idioma shadow ms-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>HOBBIES</h2>
+                                <ul>
+                                    <li>Soccer</li>
+                                    <li>Box</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </div>
+    </main>
     </main>
     <?php include_once "footer.php"; ?>
     <div class="whatsapp pt-3 pb-4 px-3">
