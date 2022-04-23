@@ -64,10 +64,14 @@ footer, footer a{
 .fa-github, .fa-linkedin{
     font-size: 30px;
 }
+nav .nav-link{
+    color: black;
+}
 nav .active{
     border: 1px solid #E20000;
     border-radius: 25px;
 }
+
 .container{
     color: white;
 }
