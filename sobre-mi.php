@@ -265,6 +265,7 @@ $pg = "sobre-mi";
                             <h3>Respiracion cardio pulmonar (RCP)</h3>
                             <h4>SuperIntendencia Riesgos del trabajo</h4>
                             <h5>2010</h5>
+                            <p>https://www.argentina.gob.ar/srt</p>
                         </div>
                     </div>
                 </div>
