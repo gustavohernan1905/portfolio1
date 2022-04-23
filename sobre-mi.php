@@ -258,57 +258,29 @@ $pg = "sobre-mi";
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
+                        <div class="col-2 p-1 my-auto d-none d-sm-block">
+                            <img src="images/srt.jpg" class="img-fluid baw" title="srt">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Operador de PC</h3>
-                            <h4>Academia Santo Domingo</h4>
+                            <h3>Respiracion cardio pulmonar (RCP)</h3>
+                            <h4>SuperIntendencia Riesgos del trabajo</h4>
                             <h5>2010</h5>
-                            <p></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6">
                     <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                        <div class="col-2 p-1 ps-1 my-auto d-none d-sm-block">
+                            <img src="images/academia.jpg" class="img-fluid baw" title="academia">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Operador de PC</h3>
                             <h4>Academia Santo Domingo</h4>
                             <h5>2012</h5>
-                            <p></p>
+                            <p>https://www.educaedu.com.ar/centros/asd-academia-santo-domingo-uni1471</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/microsoft.jpg" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Programación C# .NET</h3>
-                            <h4>Microsoft</h4>
-                            <h5>Expedición: dic 2006</h5>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>English Intermediate B2</h3>
-                            <h4>Instituto John Milton de Cultura Inglesa</h4>
-                            <h5>Expedición: dic 2006</h5>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
             </div>
         </section>
         <section id="idiomas">
