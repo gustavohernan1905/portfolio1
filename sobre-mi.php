@@ -236,19 +236,6 @@ $pg = "sobre-mi";
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ficde.png" class="img-fluid baw" title="ficde">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Oratoria y comunicacion eficaz</h3>
-                            <h4>FICDE</h4>
-                            <h5>2019</h5>
-                            <p>http://colparroquialjuan23.edu.ar</p>
-                        </div>
-                    </div>
-                </div>
             </div>
         </section>
         <section id="formacion" class="container mb-5">
@@ -261,38 +248,23 @@ $pg = "sobre-mi";
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/utn.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="images/ficde.png" class="img-fluid baw" title="ficde">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Programa Ejecutivo en Project Management</h3>
-                            <h4>Universidad Tecnológica Nacional</h4>
-                            <h5>Expedición: may 2018</h5>
-                            <p></p>
+                            <h3>Oratoria y comunicacion eficaz</h3>
+                            <h4>FICDE</h4>
+                            <h5>2019</h5>
+                            <p>http://ficde.com.ar</p>
                         </div>
                     </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Diplomatura en Marketing</h3>
-                            <h4>Escuela Argentina de Negocios</h4>
-                            <h5>Expedición: dic 2017</h5>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
                             <img src="images/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Capacitación en Planes de Negocio</h3>
-                            <h4>Fundación Impulsar</h4>
-                            <h5>Expedición: may 2018</h5>
+                            <h3>Operador de PC</h3>
+                            <h4>Academia Santo Domingo</h4>
+                            <h5>2010</h5>
                             <p></p>
                         </div>
                     </div>
@@ -303,9 +275,9 @@ $pg = "sobre-mi";
                             <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Programación Web ASP.NET</h3>
-                            <h4>Universidad Nacional de La Matanza</h4>
-                            <h5>Expedición: dic 2019</h5>
+                            <h3>Operador de PC</h3>
+                            <h4>Academia Santo Domingo</h4>
+                            <h5>2012</h5>
                             <p></p>
                         </div>
                     </div>
@@ -321,7 +293,6 @@ $pg = "sobre-mi";
                             <h5>Expedición: dic 2006</h5>
                             <p></p>
                         </div>
-
                     </div>
                 </div>
                 <div class="col-12 col-sm-6">
