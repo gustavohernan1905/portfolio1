@@ -21,12 +21,12 @@ $pg = "contacto";
     <?php include_once("header.php"); ?>
     <main class="container">
         <div class="row">
-            <div class="col-12 text-center py-5">
-                <h1>Gracias!</h1>
+            <div class="col-12 py-5">
+                <h1>Gracias por comunicarte con HSE</h1>
             </div>
             <div class="row">
                 <div class="col-12">
-                    <p>Sera respondido a la brevedad!</p>
+                    <p>Sera respondido a la brevedad! Estamos trabajando...</p>
                 </div>
 
             </div>

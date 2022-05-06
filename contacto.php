@@ -2,19 +2,36 @@
 
 $pg = "contacto";
 
-// Para enviar un correo HTML, debe establecerse la cabecera Content-type
-$cabeceras  = 'MIME-Version: 1.0' . "\r\n";
-$cabeceras .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+if($_POST) {
+    $nombre = $_POST["txtNombre"];
+    $correo = $_POST["txtCorreo"];
+    $telefono = $_POST["txtTelefono"];
+    $mensaje = $_POST["txtMensaje"];
 
-// Cabeceras adicionales
-$cabeceras .= 'To: Mary <mary@example.com>, Kelly <kelly@example.com>' . "\r\n";
-$cabeceras .= 'From: Recordatorio <cumples@example.com>' . "\r\n";
-$cabeceras .= 'Cc: birthdayarchive@example.com' . "\r\n";
-$cabeceras .= 'Bcc: birthdaycheck@example.com' . "\r\n";
+    // Varios destinatarios
+    $para = "guhediaz@gmail.com";
+    $titulo = "Recibiste un mensaje desde tu Web";
 
-// Enviarlo
-mail($para, $título, $mensaje, $cabeceras);
+    // mensaje
+    $cuerpo = "
+    Nombre: $nombre <br>
+    Correo: $correo <br>
+    Telefono: $telefono <br>
+    Mensaje: $mensaje
+    ";
 
+    // Para enviar un correo HTML, debe establecerse la cabecera Content-type
+    $cabeceras  = 'MIME-Version: 1.0' . "\r\n";
+    $cabeceras .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
+
+    // Cabeceras adicionales
+    $cabeceras .= 'To: nelson.tarche@gmail.com' . "\r\n";
+    $cabeceras .= 'From: contacto@nelsontarche.com.ar' . "\r\n";
+
+    // Enviarlo
+    //mail($para, $titulo, $cuerpo, $cabeceras);
+    header("Location: confirmacion_envio.php");
+}
 ?>
 
 <!DOCTYPE html>
